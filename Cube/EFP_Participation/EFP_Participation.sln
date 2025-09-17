@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "EFP_Participation", "EFP_Participation\EFP_Participation.dwproj", "{FDF28D58-16D3-0A5E-B038-C6C893986FED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDF28D58-16D3-0A5E-B038-C6C893986FED}.Development|Default.ActiveCfg = Development
+		{FDF28D58-16D3-0A5E-B038-C6C893986FED}.Development|Default.Build.0 = Development
+		{FDF28D58-16D3-0A5E-B038-C6C893986FED}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D56271F0-860D-4985-B2FB-D0380173BEB5}
+	EndGlobalSection
+EndGlobal

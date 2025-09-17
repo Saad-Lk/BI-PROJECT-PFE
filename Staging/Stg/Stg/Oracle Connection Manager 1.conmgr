@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Oracle Connection Manager 1"
+  DTS:DTSID="{85D57CA3-2729-4C58-9C96-457BE45F975A}"
+  DTS:CreationName="ORACLE">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager>
+      <OraConnectionString>SERVER=orclpdb;USERNAME=snifop_BI;WINAUTH=0;</OraConnectionString>
+      <OraPassword
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA99tXt9lSj0GDl0FFlgyX6wAAAAACAAAAAAAQZgAAAAEAACAAAACFglwtYBoucLn6ddiHAA/bYeFkXPnRKA5VgiVaXQtFywAAAAAOgAAAAAIAACAAAACi1V5BkXWR89DbhUxS7//8ZriQMNmmWtl7GzKfpcrgMkAAAACmuzzN9Rc/jXolF14ayDNY2Arsdpuf88NFGMxup5T0hYGCECottm41WFbbm60hJ4PmV7I8qQYy31zjPYUq5rgIQAAAAHq77A1OfsdDs0uKlLmpRfn7Qm94BJubrGjeWFhim0Uv2j7N4h5gT7J0fPjywp3sC5dre5aNxnSEjn78R2JANwU=</OraPassword>
+      <OraRetain>False</OraRetain>
+      <OraInitialCatalog></OraInitialCatalog>
+      <OraServerName>orclpdb</OraServerName>
+      <OraUserName>snifop_BI</OraUserName>
+      <OraOracleHome></OraOracleHome>
+      <OraOracleHome64></OraOracleHome64>
+      <OraWinAuthentication>False</OraWinAuthentication>
+      <OraEnableDetailedTracing>False</OraEnableDetailedTracing>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

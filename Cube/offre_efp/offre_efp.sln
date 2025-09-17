@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "offre_efp", "offre_efp\offre_efp.dwproj", "{9D043C48-9296-49E4-245E-C41613897BC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D043C48-9296-49E4-245E-C41613897BC5}.Development|Default.ActiveCfg = Development
+		{9D043C48-9296-49E4-245E-C41613897BC5}.Development|Default.Build.0 = Development
+		{9D043C48-9296-49E4-245E-C41613897BC5}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8AFAEDC-C721-46BE-A527-8F93B7C5F916}
+	EndGlobalSection
+EndGlobal

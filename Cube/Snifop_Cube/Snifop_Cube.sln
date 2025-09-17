@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Snifop_Cube", "Snifop_Cube\Snifop_Cube.dwproj", "{A7FD9038-E180-0C0E-DA75-E3A34F9C3AF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7FD9038-E180-0C0E-DA75-E3A34F9C3AF3}.Development|Default.ActiveCfg = Development
+		{A7FD9038-E180-0C0E-DA75-E3A34F9C3AF3}.Development|Default.Build.0 = Development
+		{A7FD9038-E180-0C0E-DA75-E3A34F9C3AF3}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D370B55-1B52-4385-8ADE-683B27949A1C}
+	EndGlobalSection
+EndGlobal
