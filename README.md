@@ -53,3 +53,16 @@ Ces dashboards mettent en évidence :
 ![Dashboard Catégorie 3 - Vue 2](img/dash2cat3.png)  
 
 ---
+## 🛠️ Technologies & Mots-clés
+
+### 🔧 Technologies utilisées
+- **Bases de données :** Oracle Database, Microsoft SQL Server  
+- **ETL :** SQL Server Integration Services (SSIS)  
+- **OLAP :** SQL Server Analysis Services (SSAS), requêtes MDX  
+- **Visualisation :** Power BI Report Server  
+- **Langages :** SQL, MDX  
+
+### 🏷️ Mots-clés
+`Business Intelligence` · `Data Warehouse` · `ETL` · `OLAP` · `Power BI` · `Formation Professionnelle` · `SSIS` · `SSAS` · `KPI` · `Tableaux de bord`  
+
+---
